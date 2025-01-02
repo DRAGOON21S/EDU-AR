@@ -110,8 +110,8 @@ Consider Sarah, a first-year chemistry student:
 
 ## Contact
 
-- Shrey Bansal - f20230649@pilani.bits-pilani.ac.in , 8708313193
-- Amrit Lahari - f20230442@pilani.bits-pilani.ac.in , 7024516785
+- Shrey Bansal - f20230649@pilani.bits-pilani.ac.in  
+- Amrit Lahari - f20230442@pilani.bits-pilani.ac.in 
 
 
 
